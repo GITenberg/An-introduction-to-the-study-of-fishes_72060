@@ -1,11 +1,16 @@
 _repo: An-introduction-to-the-study-of-fishes_72060
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72060-h/images/cover.jpg
 creator:
   author:
     agent_name: Günther, Albert Carl Ludwig Gotthilf
     gutenberg_agent_id: '56522'
     url: http://www.gutenberg.org/2009/agents/56522
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72060#An-introduction-to-the-study-of-fishes
 gutenberg_issued: '2023-11-07'
 identifiers:
   gutenberg: '72060'
